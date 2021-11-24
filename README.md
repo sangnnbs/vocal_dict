@@ -7,6 +7,7 @@ This project provides a tool to convert voice to text and also uses oxford dicti
 - Python v3.9.2
 - Pip v21.3.1
 - portaudio (for mac install by homebrew)
+- Flask
 
 ## Usage example
 
