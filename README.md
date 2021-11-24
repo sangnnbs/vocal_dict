@@ -30,7 +30,8 @@ python3 -m pip install PyAudio
 
 Run script
 ```
-python3 main.py
+python3 main.py     #Using Python
+py app.py           #Using Flask
 ```
 
 ## Contributor
